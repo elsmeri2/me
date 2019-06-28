@@ -35,7 +35,7 @@ var ti={}
 
 client.on('ready', function(){
     var ms = 60000 ;
-    var setGame = ['Jͬ̓͒u͘st͆̓̌ Liḳe A ̊͊ͫKͨiͤ̂̏ng 🖕🏽','Jͬ̓͒u͘st͆̓̌ Liḳe A ̊͊ͫKͨiͤ̂̏ng 🖕'];
+    var setGame = ['قاعد بعوم ف البحر محدش يكلمني 🖕🏽','Jͬ̓͒u͘st͆̓̌ Liḳe A ̊͊ͫKͨiͤ̂̏ng 🖕'];
     var i = -1;
     var j = 0;
     setInterval(function (){
